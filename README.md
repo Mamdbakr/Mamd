@@ -1,39 +1,74 @@
-# Mamd
+# 🌐 Mahmoud Personal Website
 
-A simple personal project built with a focus on clean structure and continuous learning.
+A simple personal website built using HTML and CSS as part of my learning journey in web development.
 
 ---
 
 ## 🚀 About The Project
 
-This project is part of my learning journey as a developer, where I explore and apply:
+This is my first personal website project where I practiced:
 
-- Flutter development concepts
-- Python logic and automation
-- Software engineering fundamentals
+- HTML structure
+- CSS styling
+- Tables and layouts
+- Basic navigation between pages
 
----
-
-## 🧠 Purpose
-
-The goal of this project is to improve my skills in building real-world applications and writing clean, maintainable code.
+The website represents a simple profile including my interests, gaming, and learning path.
 
 ---
 
-## 🛠 Tech Stack
+## 🎮 Features
 
-- Flutter / Dart
-- Python
-- Git & GitHub
+- Personal introduction page
+- Profile image and basic layout
+- Sections about:
+  - Myself
+  - League of Legends (favorite game)
+  - Learning roadmap for web development
+- Simple navigation links (Contact / Family pages)
+- Tables for skills and timeline
 
 ---
 
-## 📁 Project Status
+## 🛠 Built With
 
-This project is still in development and will be improved over time with new features and refactoring.
+- HTML5
+- CSS3 (inline + external styles)
+- Basic table layout design
+
+---
+
+## 📚 What I Learned
+
+- How to structure a webpage using HTML
+- How to apply CSS styling to elements
+- How to use tables for organizing data
+- How to link multiple HTML pages together
+
+---
+
+## 🎯 Future Improvements
+
+- Convert layout to Flexbox / Grid
+- Make it responsive for mobile devices
+- Improve UI design (modern style)
+- Add JavaScript interactivity
+- Rebuild it as a portfolio website
+
+---
+
+## 📸 Preview
+
+> (Add a screenshot of your website here)
 
 ---
 
 ## 📫 Contact
 
-- Email: mamdbakr9@gmail.com
+- Name: Mahmoud (Mamd)
+- Country: Egypt
+- Learning: Web Development (Beginner)
+
+---
+
+⭐ This project is part of my learning journey in becoming a web developer.
